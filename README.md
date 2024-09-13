@@ -1,1 +1,1 @@
-# Scuttle-Bug-Walking-Simulation
+# Scuttle Bug Walking Simulation
